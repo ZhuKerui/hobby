@@ -54,5 +54,8 @@ echo "install latex"
 sudo apt install texlive-full
 echo "install freeplane"
 sudo apt install freeplane
-# install netease cloud music
+echo "install gimp"
+sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+sudo apt update
+sudo apt install gimp
 # go to https://music.163.com/#/download
