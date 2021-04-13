@@ -12,8 +12,6 @@ echo "install vscode"
 umake ide visual-studio-code
 echo "install clion"
 umake ide clion
-echo "install arduino"
-sudo apt install arduino
 echo "install Android Studio"
 umake android
 echo "install libreoffice"
@@ -22,6 +20,7 @@ echo "install vim"
 sudo apt install vim
 echo "setup C/C++ environment"
 sudo apt install build-essential
+sudo apt install cmake
 echo "install git"
 sudo apt install git
 echo "install zsh and oh-my-zsh"
