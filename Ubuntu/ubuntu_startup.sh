@@ -9,13 +9,14 @@ sudo add-apt-repository ppa:lyzardking/ubuntu-make
 sudo apt update
 sudo apt install ubuntu-make
 echo "install vscode"
-umake ide visual-studio-code
+# umake ide visual-studio-code
+sudo snap install code --classic
 echo "install clion"
-umake ide clion
+sudo snap install clion
 echo "install Android Studio"
-umake android
-echo "install libreoffice"
-sudo apt install libreoffice
+sudo snap install android-studio --classic
+# echo "install libreoffice"
+# sudo apt install libreoffice
 echo "install vim"
 sudo apt install vim
 echo "setup C/C++ environment"
@@ -54,7 +55,7 @@ sudo apt install texlive-full
 echo "install freeplane"
 sudo apt install freeplane
 echo "install gimp"
-sudo add-apt-repository ppa:otto-kesselgulasch/gimp
-sudo apt update
-sudo apt install gimp
-# go to https://music.163.com/#/download
+# sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+# sudo apt update
+# sudo apt install gimp
+sudo snap install gimp
