@@ -59,3 +59,7 @@ echo "install gimp"
 # sudo apt update
 # sudo apt install gimp
 sudo snap install gimp
+echo "install java"
+sudo apt install openjdk-11-jdk
+echo "install maven"
+sudo apt install maven
