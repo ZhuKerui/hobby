@@ -1,22 +1,15 @@
+ssh-keygen -o
 # install input method "rime"
 sudo apt install ibus-rime
 sudo apt install librime-data-pinyin-simp
 # Go to ~/.config/ibus/rime/build, modify the schema order in default.yaml, move the luna_pinyin_simp to the top
 
-# install software using ubuntu-make
-echo "add ubuntu-make tools"
-sudo add-apt-repository ppa:lyzardking/ubuntu-make
-sudo apt update
-sudo apt install ubuntu-make
 echo "install vscode"
-# umake ide visual-studio-code
 sudo snap install code --classic
 echo "install clion"
-sudo snap install clion
+sudo snap install clion --classic
 echo "install Android Studio"
 sudo snap install android-studio --classic
-# echo "install libreoffice"
-# sudo apt install libreoffice
 echo "install vim"
 sudo apt install vim
 echo "setup C/C++ environment"
@@ -47,7 +40,7 @@ sudo apt install gparted
 echo "install workrave"
 sudo apt install workrave
 echo "install video player VLC"
-sudo apt install vlc
+sudo snap install vlc
 echo "install screen"
 sudo apt install screen
 echo "install latex"
@@ -55,11 +48,9 @@ sudo apt install texlive-full
 echo "install freeplane"
 sudo apt install freeplane
 echo "install gimp"
-# sudo add-apt-repository ppa:otto-kesselgulasch/gimp
-# sudo apt update
-# sudo apt install gimp
 sudo snap install gimp
 echo "install java"
+sudo apt-get remove --purge icedtea-\* openjdk-\*
 sudo apt install openjdk-11-jdk
 echo "install maven"
 sudo apt install maven
