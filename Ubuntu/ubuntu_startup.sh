@@ -8,6 +8,8 @@ echo "install vscode"
 sudo snap install code --classic
 echo "install clion"
 sudo snap install clion --classic
+echo "install eclipse"
+sudo snap install eclipse --classic
 echo "install Android Studio"
 sudo snap install android-studio --classic
 echo "install vim"
@@ -46,7 +48,7 @@ sudo apt install screen
 echo "install latex"
 sudo apt install texlive-full
 echo "install freeplane"
-sudo apt install freeplane
+sudo snap install freeplane-mindmapping
 echo "install gimp"
 sudo snap install gimp
 echo "install java"
@@ -54,3 +56,5 @@ sudo apt-get remove --purge icedtea-\* openjdk-\*
 sudo apt install openjdk-11-jdk
 echo "install maven"
 sudo apt install maven
+echo "install translate-shell"
+sudo apt install translate-shell
