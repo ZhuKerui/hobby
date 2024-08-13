@@ -1,0 +1,91 @@
+<mxfile host="Electron" modified="2024-03-26T03:16:19.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="b26Cec2HuiCNyT55wshk" version="24.1.0" type="device">
+  <diagram name="Page-1" id="vUC-KjAJEzJZBbOA3Mrf">
+    <mxGraphModel dx="969" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=40;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-3" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;cited paper of paper&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="23" y="180" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-4" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;paper of author&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="38" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-5" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;venue or authors &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;of paper&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="28" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-6" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;paper of venue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="38" y="290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-7" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;paper with&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;shared cited paper&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-8" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;paper with&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;shared author or venue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="175" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-9" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;paper with&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;shared author and venue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="175" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-10" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;venues within&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;hops to paper&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="351" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-11" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;venues within&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;hops to author&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="346" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-12" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;authors within&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;hops to venue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="346" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-13" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;paper &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;pairs &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;of paper&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="505" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-14" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;paper-venue &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;or paper-author &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;pairs of paper&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=8;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-15" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;paper-paper, &lt;span style=&quot;background-color: initial;&quot;&gt;paper-&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;author and &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;paper-&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;venue &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pairs of paper&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=8;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-16" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;paper pairs &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;with co-cited papers&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="634" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-17" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;paper pairs &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;with shared &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;authors or venue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=8;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="654" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-18" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;paper pairs &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;with 2 shared &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 100%; white-space-collapse: preserve; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;attributes&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;labelBackgroundColor=none;rounded=1;fontSize=8;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="659" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="240" as="sourcePoint" />
+            <mxPoint x="800" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="340" as="sourcePoint" />
+            <mxPoint x="475" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-21" value="Node tasks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-22" value="Pair tasks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="590" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-23" value="Tasks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="800" y="230" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-24" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Seen tasks&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="430" y="125" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gg2HYEqp5_12gMMC2qLY-25" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Unseen tasks&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="90" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
